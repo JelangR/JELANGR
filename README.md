@@ -1,4 +1,7 @@
 ## Hi there 👋
+Perkenalkan nama saya **Jelang Ramadhan** <br>
+Saya seorang **Murid MSIB-7** <br>
+saya mengambil mitra Bangkit Academy, path Machine Learning 
 
 <!--
 **JelangR/JELANGR** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

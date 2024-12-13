@@ -1,7 +1,6 @@
 ## Hi there 👋
-Perkenalkan nama saya **Jelang Ramadhan** <br>
-Saya seorang **Murid MSIB-7** <br>
-saya mengambil mitra Bangkit Academy, path Machine Learning 
+My name is **Jelang Ramadhan** <br>
+An active student of S1 Mathematics study program who is active in organizational activities at the department and study program levels.  During college, carried out the project of making learning media for the Multiplication House using Python and the project of making disease prediction using the decission tree algorithm and random forest. making disease predictions using decission tree and random forest algorithms. Interested in the field of data analyst, and machine learning
 
 <!--
 **JelangR/JELANGR** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

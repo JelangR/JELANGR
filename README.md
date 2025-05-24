@@ -4,8 +4,8 @@ An active student of S1 Mathematics study program who is active in organizationa
 
 ### ⭐ Skills
 #### 💻 Data Science and Machine Learning
-![keras]({https://img.shields.io/badge/Keras-FF0000?style=for-the-badge&logo=keras&logoColor=white})
-![tf]({https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white})
+![keras](https://img.shields.io/badge/Keras-FF0000?style=for-the-badge&logo=keras&logoColor=white)
+![tf](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
 
 <!--
 **JelangR/JELANGR** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

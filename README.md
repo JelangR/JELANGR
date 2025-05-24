@@ -2,6 +2,11 @@
 My name is **Jelang Ramadhan** <br>
 An active student of S1 Mathematics study program who is active in organizational activities at the department and study program levels.  During college, carried out the project of making learning media for the Multiplication House using Python and the project of making disease prediction using the decission tree algorithm and random forest. making disease predictions using decission tree and random forest algorithms. Interested in the field of data analyst, and machine learning
 
+### ⭐ Skills
+#### 💻 Data Science and Machine Learning
+![keras]({https://img.shields.io/badge/Keras-FF0000?style=for-the-badge&logo=keras&logoColor=white})
+![tf]({https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white})
+
 <!--
 **JelangR/JELANGR** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

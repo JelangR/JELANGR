@@ -1,6 +1,6 @@
 ## Hi there 👋
 My name is **Jelang Ramadhan** <br>
-An active student of S1 Mathematics study program who is active in organizational activities at the department and study program levels.  During college, carried out the project of making learning media for the Multiplication House using Python and the project of making disease prediction using the decission tree algorithm and random forest. making disease predictions using decission tree and random forest algorithms. Interested in the field of data analyst, and machine learning
+I am well-versed in data analysis, modeling, and visualization. I have a strong command of programming languages such as Python and R, along with experience using SQL, Tableau, and Metabase. I am also proficient in machine learning frameworks like scikit-learn and TensorFlow. I enjoy translating complex datasets into actionable insights and have consistently demonstrated strong communication skills when presenting findings to both technical and non-technical stakeholders. I aim to grow my career by solving real-world problems through data-driven decision-making.
 
 ## ⭐ Skills
 ### Progamming Language
